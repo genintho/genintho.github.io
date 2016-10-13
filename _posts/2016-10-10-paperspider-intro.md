@@ -4,9 +4,6 @@ title:  "PaperSpider - Introduction"
 date: 2016-10-10 19:00:00
 ---
 
-# PaperSpider weekly status #1
-
-
 PaperSpider is the idea of a project I had in the back of my mind for a very long time. Every time you need to do a task involving a lot of different documents, it is just a giant pain. Some documents are on paper, some are in your email account(s?), others are behind some accounts, on some folder, etc.
 It is a disaster, you could not believe.
 
