@@ -36,6 +36,7 @@
     </div>
     <div class="project">
         <h3>tailchart</h3>
+        <p>A commande line utility to tail log files and  extract in real-time informations.</p>
     </div>
 
 </div>
