@@ -1,8 +1,15 @@
-.project {
-  border-bottom: dotted 1px black;
-  padding-bottom: 18px;
-  margin: 18px;
+.projects {
+  .project {
+    border-bottom: dotted 1px black;
+    padding-bottom: 18px;
+    margin: 18px;
+  }
+}
 
+.project {
+  h1 {
+    font-size: 40px;
+  }
   .links {
     img {
       width: 40px;
