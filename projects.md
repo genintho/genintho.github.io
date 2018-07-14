@@ -23,6 +23,9 @@
         </p>
 
         <div class="links">
+            <a
+            href="http://everymscount.com/json-size-explorer/demo.html"><img
+            src="/img/assets/link.svg"></a>
             <a href="https://www.npmjs.com/package/json-size-explorer"><img src="/img/assets/npm.svg"/></a>
             <a href="https://github.com/genintho/json-size-explorer"><img src="/img/assets/github.svg"/></a>
         </div>
