@@ -4,6 +4,8 @@ title:  A Guide to Successfully Completing a Large Refactoring
 date: 2018-01-22 19:00:00
 ---
 
+_This post was first published on the Hipmunk engineering [blog](https://hipmunk.github.io/posts/2018/Jan/22/a-guide-to-successfully-completing-a-large-refactoring/)._
+
 ## A Refactoring Tale
 
 Very frequently, refactoring starts the same way. One engineer learns/thinks about something. A (naive) prototype gets built. It is demoed, presented to a few people. A pull request is created, updated and merged. Et voilà, all your problems will be solved by this miraculous new code. Fast forward a few weeks, the new/better way of doing things has been used marginally more. An attempt to use it in more tricky places fails because of unforeseen difficulty, fear of breaking things, or lack of time. The original author of the patch has moved on to some other kool new thing, is ashamed of it, or forgets about it. Fast forward a few weeks, (new) people exposed to the code are confused. Why is there 2 ways of doing the same thing? Which one should they use? What is the plan to phase out one of them? Trying something totally new is going to make things better!
