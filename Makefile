@@ -6,5 +6,5 @@ update:
 	bundle update github-pages
 
 run:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --drafts
 
