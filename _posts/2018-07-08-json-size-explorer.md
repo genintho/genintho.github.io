@@ -24,7 +24,7 @@ By feeding him a JSON file, it will print a bunch of statistic about it:
 
 The current results are kind of ugly:
 ![json-size-explorer-1](/img/2018-07-08/json-size-explorer-1.png)
-![json-size-explorer-1](/img/2018-07-08/json-size-explorer-2.png)
+![json-size-explorer-2](/img/2018-07-08/json-size-explorer-2.png)
 
 But you can see that for this 3+mb file, more than 30% of it are just keys and one specific key/value is repeated 3,116 times, taking more than 16% of the total file size.
 
