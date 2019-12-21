@@ -4,6 +4,17 @@
     </p>
 
     <div class="project">
+        <h3>PagerInsights</h3>
+        <p>
+            Get more out of your PagerDuty subscription!
+            PagerInsights helps you reduce the cost of your PagerDuty subscription by finding unused user, providing powerful analytics and sparkling dashboards to display in the TV in your office.
+        </p>
+        <div class="links">
+            <a href="https://www.pagerinsights.com"><img src="/img/assets/link.svg"/></a>
+        </div>
+    </div>
+
+    <div class="project">
         <h3>BleachCSS</h3>
         <p>
             Reliably detect unused CSS from your application by leveraging your users activity. With the help of a snippet of Javascript, it detects CSS usage, reports it to a server that aggregates it. After a period of time a pull request
@@ -56,12 +67,12 @@
         </div>
     </div>
 
-    <div class="project">
+    <!-- <div class="project">
         <h3>YouUp Computer?</h3>
         <p>An attempt to build a pager service for personal projects.</p>
         <div class="links">
             <a href="https://www.youup.computer"><img src="/img/assets/link.svg"/></a>
         </div>
-    </div>
+    </div> -->
 
 </div>
