@@ -4,10 +4,10 @@
     </p>
 
     <div class="project">
-        <h3>PagerInsights</h3>
+        <h3><a href="https://www.pagerinsights.com">PagerInsights</a></h3>
         <p>
             Get more out of your PagerDuty subscription!
-            PagerInsights helps you reduce the cost of your PagerDuty subscription by finding unused user, providing powerful analytics and sparkling dashboards to display in the TV in your office.
+            <a href="https://www.pagerinsights.com">PagerInsights</a> helps you reduce the cost of your PagerDuty subscription by finding unused user, providing powerful analytics and sparkling dashboards to display in the TV in your office.
         </p>
         <div class="links">
             <a href="https://www.pagerinsights.com"><img src="/img/assets/link.svg"/></a>
