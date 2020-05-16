@@ -4,6 +4,16 @@
     </p>
 
     <div class="project">
+        <h3><a href="https://browserboard.com/">Browserboard</a></h3>
+        <p>
+            A whiteboard, in the browser.
+        </p>
+        <div class="links">
+            <a href="https://browserboard.com"><img src="/img/assets/link.svg"/></a>
+        </div>
+    </div>
+
+    <div class="project">
         <h3><a href="https://www.pagerinsights.com">PagerInsights</a></h3>
         <p>
             Get more out of your PagerDuty subscription!
